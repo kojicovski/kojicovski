@@ -12,38 +12,22 @@ At university, I am learning about AI like machine learning, data analysis and c
 
 <h2 align="left">:hammer_and_wrench:Some Technologies and Tools I use:</h2>
 
-* **Python**
-* R
-* C/C++
-* Shell script
-* JavaScript/TypeScript
-* Yocto Project
-* Pandas/Numpy
-* Scikitlearn
-* Linux system
-
+* ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+* ![R](https://img.shields.io/badge/-R-336791?style=flat-square&logo=R)
+* ![C++](https://img.shields.io/badge/-C++-00579A?style=flat-square&logo=c)
+* ![Shell Script](https://img.shields.io/badge/Shell%20Script-%20-brightgreen)
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+* ![Yocto Project](https://img.shields.io/badge/-Yocto%20Project-blueyellow?style=flat-square&logo=Yocto)
+* ![Pandas](https://img.shields.io/badge/-Pandas-darkblue?style=flat-square&logo=Pandas)
+* ![Numpy](https://img.shields.io/badge/-Numpy-seagreen?style=flat-square&logo=Numpy)
+* ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+* ![Scikitlearn](https://img.shields.io/badge/-Scikit%20learn-orange?style=flat-square&logo=scikit)
+* ![Linux system](https://img.shields.io/badge/-Linux%20system-black?style=flat-square&logo=linux)
+------------------
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kojicovski&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojicovski&hide=TeX&layout=compact),
 
 <h2 align="left">Find me around the WWW🌎:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-samuelkojicovski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelkojicovski/)](https://www.linkedin.com/in/samuelkojicovski)
-
-
-# README IN PROGRESS
-
-
-<!--
-**kojicovski/kojicovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
