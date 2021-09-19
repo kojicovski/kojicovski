@@ -1,18 +1,16 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </p>
   
-I'm [Samuel](https://www.linkedin.com/in/samuelkojicovski/), an electrical engineer who works as embedded Linux systems developer.
+I'm [Samuel](https://www.linkedin.com/in/samuelkojicovski/), an electrical engineer who works as Software Engineer.
 
-I'm currently working on [Smartgreen](https://www.smartgreen.net/), developing solutions for smart cities and studying Applied Artificial Intelligence, postgraduate at [UFPR](http://www.iaa.ufpr.br/). 
-
-At smartgreen, I develop systems for embedded linux, using [Yocto project](https://www.yoctoproject.org/) and [Toradex Colibri imx7](https://www.toradex.com/computer-on-modules/colibri-arm-family/nxp-freescale-imx7) board. The main language I use here is python.
+I'm currently working on [Bosch](https://www.bosch.com/), developing solutions for agriculture and studying Applied Artificial Intelligence, postgraduate at [UFPR](http://www.iaa.ufpr.br/). 
 
 At university, I am learning about AI like machine learning, data analysis and computer vision.
-
 
 <h2 align="left">:hammer_and_wrench:Some Technologies and Tools I use:</h2>
 
 * ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 * ![R](https://img.shields.io/badge/-R-336791?style=flat-square&logo=R)
+* ![Java](https://img.shields.io/badge/-Java-336791?style=flat-square&logo=java)
 * ![C++](https://img.shields.io/badge/-C++-00579A?style=flat-square&logo=c)
 * ![Shell Script](https://img.shields.io/badge/Shell%20Script-%20-brightgreen)
 * ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
